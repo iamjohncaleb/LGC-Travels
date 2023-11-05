@@ -656,6 +656,7 @@ section {
   padding: 1rem 0;
 }
 
+/* contact info */
 .footer .box-container .box p {
   font-size: 1.4rem;
   color: #111;
@@ -689,6 +690,7 @@ section {
   background: #29d9d5;
   color: #111;
 }
+
 /* quick link */
 .footer .box-container .box .links {
   font-size: 1.4rem;
@@ -704,6 +706,7 @@ section {
 .footer .box-container .box .links:hover i {
   padding-right: 2rem;
 }
+
 /* the link */
 .footer .box-container .box .links i {
   padding-right: .5rem;
