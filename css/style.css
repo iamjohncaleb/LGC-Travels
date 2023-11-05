@@ -23,16 +23,16 @@ html::-webkit-scrollbar {
 }
 
 html::-webkit-scrollbar-track {
-  background: #424242;
+  background: #111;
 }
 
 html::-webkit-scrollbar-thumb {
-  background: #29d9d5;
+  background:  #fa9836;
   border-radius: 5rem;
 }
 
 body {
-  background: #e0e0e0;
+  background: #eceaea;
   overflow-x: hidden;
 }
 
@@ -54,7 +54,7 @@ section {
 
 .heading h1 {
   font-size: 4rem;
-  color: #111;
+  color: #fff;
 }
 
 .btn {
@@ -421,13 +421,13 @@ section {
 
 .gallery .box-container .box span {
   font-size: 1.4rem;
-  color: #aaa;
+  color: #6b6a6a;
 }
 
 .gallery .box-container .box h3 {
   margin-top: .5rem;
   font-size: 2rem;
-  color: #fff;
+  color: #111;
 }
 
 .review {
@@ -455,12 +455,12 @@ section {
 
 .review .content h3 {
   font-size: 3rem;
-  color: #fff;
+  color: #111;
 }
 
 .review .content p {
   font-size: 1.4rem;
-  color: #aaa;
+  color: #6b6a6a;
   padding: 1rem 0;
   line-height: 2;
 }
@@ -652,13 +652,13 @@ section {
 
 .footer .box-container .box h3 {
   font-size: 2.2rem;
-  color: #fff;
+  color: #111;
   padding: 1rem 0;
 }
 
 .footer .box-container .box p {
   font-size: 1.4rem;
-  color: #aaa;
+  color: #111;
   padding: 1rem 0;
   line-height: 2;
 }
@@ -692,7 +692,7 @@ section {
 
 .footer .box-container .box .links {
   font-size: 1.4rem;
-  color: #aaa;
+  color: #111;
   padding: 1rem 0;
   display: block;
 }
@@ -752,7 +752,7 @@ section {
     left: 0;
     right: 0;
     background: #222;
-    border-top: .1rem solid #eee;
+    border-top: .1rem solid #111;
     -webkit-clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
             clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
   }
