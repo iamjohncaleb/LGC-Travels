@@ -483,7 +483,7 @@ section {
           flex: 1 1 20rem;
   border-radius: 1rem;
   padding: 2rem;
-  background: #222;
+  background: #003144;
   border: 0.2rem solid #111;
 }
 
@@ -534,7 +534,7 @@ section {
 
 .blogs .box-container .box {
   border-radius: 1rem;
-  background: #222;
+  background: #003144;
   overflow: hidden;
 }
 
