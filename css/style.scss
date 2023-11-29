@@ -9,6 +9,7 @@
     text-transform: capitalize;
 }
 
+
 $blue:#29d9d5;
 $black:#111;
 $white:#fff;
@@ -22,6 +23,7 @@ $border:.2rem solid $blue;
     grid-template-columns: repeat(auto-fit, minmax($val, 1fr));
     gap:1.5rem;
 }
+
 
 html{
     font-size: 62.5%;
