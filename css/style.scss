@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600&display=swap');
 
-
 *{
     font-family: 'Poppins', sans-serif;
     margin:0; padding:0;
@@ -9,7 +8,6 @@
     text-decoration: none;
     text-transform: capitalize;
 }
-
 
 $blue:#29d9d5;
 $black:#111;
@@ -24,7 +22,6 @@ $border:.2rem solid $blue;
     grid-template-columns: repeat(auto-fit, minmax($val, 1fr));
     gap:1.5rem;
 }
-
 
 html{
     font-size: 62.5%;
